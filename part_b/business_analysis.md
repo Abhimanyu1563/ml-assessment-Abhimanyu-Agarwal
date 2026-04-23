@@ -43,7 +43,8 @@ This is important because customer behaviour, purchasing power, and responsivene
 
 By incorporating segmentation or interactions, the model can better reflect **heterogeneity across stores,** leading to more accurate and actionable predictions.
 
-
+---
+---
 
 # B2. Data and EDA Strategy
 
@@ -116,7 +117,8 @@ To address this, the following steps can be taken:
 
 This ensures that the model learns meaningful patterns for both common and rare scenarios.
 
-
+---
+---
 
 # B3. Model Evaluation and Deployment
 
